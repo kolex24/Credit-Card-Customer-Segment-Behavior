@@ -51,7 +51,6 @@ The repository includes:
 - `credit_card.ipynb`: Main notebook for the analysis.
 - `anomalies.csv`: Output file containing detected anomalies.
 - `.vscode/settings.json`: VS Code configuration.
-- `notebook_readme_agent.py`: Supporting script for notebook execution.
 
 ## Limitations and Possible Improvements
 - The analysis could be further refined by exploring additional clustering algorithms (e.g., DBSCAN) for potentially better customer groupings.

@@ -1,4 +1,4 @@
-```markdown
+
 # Credit Card Customer Segmentation
 
 ## Project Description
@@ -42,9 +42,9 @@ To run the analysis:
 
 ## Key Findings and Insights
 Three unique customer segments were identified:
-- **Cluster 2**: Cash-Advance-Dependent Revolvers—high-risk, high-revenue customers needing credit monitoring.
-- **Cluster 0**: One-Off Big-Ticket Spenders—candidates for installment plan promotion.
-- **Cluster 1**: Disciplined Low-Balance Payers—low risk, good candidates for credit limit increases.
+- **Cluster 2**: Cash-Advance-Dependent Revolversâ€”high-risk, high-revenue customers needing credit monitoring.
+- **Cluster 0**: One-Off Big-Ticket Spendersâ€”candidates for installment plan promotion.
+- **Cluster 1**: Disciplined Low-Balance Payersâ€”low risk, good candidates for credit limit increases.
 
 ## Project Structure
 The repository includes:
